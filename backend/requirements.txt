@@ -1,5 +1,5 @@
+tensorflow-cpu>=2.12
 fastapi>=0.100
 uvicorn>=0.23
-tensorflow>=2.12
 numpy
 pydantic>=2.0
