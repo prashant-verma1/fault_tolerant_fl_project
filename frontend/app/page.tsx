@@ -27,7 +27,7 @@ import {
   Legend,
 } from "recharts";
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_URL = "https://fl-backend-q3v0.onrender.com";
 
 interface RoundResult {
   round: number;
